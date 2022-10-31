@@ -1,4 +1,4 @@
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3200&pause=1000&color=00F76C&background=FF20D100&center=true&multiline=true&width=800&lines=WIRED+WIRED+WIRED+WIRED+lain;WIRED+WIRED+lain+WIRED+flair+WIRED+WIRED" alt="Typing SVG" /></a>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3200&pause=1000&color=00F76C&background=FF20D100&center=true&width=800&lines=WIRED+WIRED+WIRED+WIRED+lain;WIRED+WIRED+lain+WIRED+flair+WIRED+WIRED)](https://git.io/typing-svg)
 
 <img src="https://github.com/juuroudojo/juuroudojo/blob/main/images/tumblr_f72ef7405f22c3008dc602f028054442_eb49b3d0_400.gif" height="250"/> <img src="https://github.com/juuroudojo/juuroudojo/blob/main/images/tumblr_06c60a6a7f44f54f0f51880a84180116_4741eff6_1280.gif" height="350"/> <img src="https://github.com/juuroudojo/juuroudojo/blob/main/images/tumblr_f72ef7405f22c3008dc602f028054442_eb49b3d0_400.gif" height="250"/>
 
