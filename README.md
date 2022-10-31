@@ -1,7 +1,7 @@
-### <h1>  🆆🅸🆁🅴🅳 浦ニけ </h1>
+### <h1>  🆆🅸🆁🅴🅳 浦ニけ ░W░I░R░E░D░ ≋W≋I≋R≋E≋D≋ </h1>
 
 
-<img src="https://github.com/juuroudojo/juuroudojo/blob/main/images/tumblr_06c60a6a7f44f54f0f51880a84180116_4741eff6_1280.gif" height="300"/>
+<img src="https://github.com/juuroudojo/juuroudojo/blob/main/images/tumblr_06c60a6a7f44f54f0f51880a84180116_4741eff6_1280.gif" height="430"/>
 
 <!--
 **juuroudojo/juuroudojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
